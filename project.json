@@ -1,6 +1,6 @@
 {
-  ""name"": ""specproj-9tcemue7"",
-  ""goal"": ""sync worker for incident triage"",
-  ""language"": ""rust"",
-  ""template"": ""rust-lib""
+    "name":  "specproj-9tcemue7",
+    "goal":  "sync worker for incident triage",
+    "language":  "rust",
+    "template":  "rust-lib"
 }
